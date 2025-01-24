@@ -1,3 +1,1 @@
-Paste your token in
-*****TOKEN*****
-*****YOOKASSA TOKEN*****
+Paste your token in *****TOKEN***** and *****YOOKASSA TOKEN*****
